@@ -19,4 +19,5 @@ spec:
       prune: false
     syncOptions:
       - CreateNamespace=true
+# teste      
 ...
